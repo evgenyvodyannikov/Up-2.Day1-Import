@@ -1,0 +1,13 @@
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\bin\Debug\import.exe.config
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\bin\Debug\import.exe
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\bin\Debug\import.pdb
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\bin\Debug\EntityFramework.dll
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\bin\Debug\EntityFramework.xml
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\obj\Debug\import.csproj.AssemblyReference.cache
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\obj\Debug\import.csproj.CoreCompileInputs.cache
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\obj\Debug\import.csproj.CopyComplete
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\obj\Debug\import.exe
+C:\Users\pr1-22-vodyannikoves\Downloads\данные для импорта\import\import\obj\Debug\import.pdb
